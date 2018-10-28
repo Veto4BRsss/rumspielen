@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">rumspielen</string>
+    <string name="click">hier geht es zur karte</string>
+    <string name="eingabe">gib deinen Namen hier ein</string>
+    <string name="back">bring me back</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="karte">zur karte bitte</string>
+    <string name="video">zum video bitte</string>
+</resources>
